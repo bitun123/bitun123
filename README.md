@@ -5,7 +5,7 @@
 ### Hi there 👋, I Am Satyajit Das Mahapatra
 ''I am hard working have positive attitude keen to learn new things, and enjoy working in a team environment . Among my other strengths are comprehensive problem solving abilities , excellent verbal and written communication skills, ability to deal with people diplomatically , willingness to learn and team facilitator."
 
-Skills: **HTML**,**CSS**,**SCSS**,**JAVASCRIPT**,**REACT.JS**,**TAILWIND CSS** ,**NODE JS ** ,**EXPRESS JS ** ,**MONGO DB**,**NEXT JS**,**GIT** ,**GITHUB**,**REDUX**,**LANGCHAIN**,**LANGGRAPH**
+Skills: **HTML**,**CSS**,**SCSS**,**JAVASCRIPT**,**REACT.JS**,**TAILWIND CSS** ,**NODE JS ** ,**EXPRESS.JS ** ,**MONGO.DB**,**NEXT.JS**,**GIT** ,**GITHUB**,**REDUX**,**LANGCHAIN**,**LANGGRAPH**
 
 - 🔭 I’m currently working on Building modern, responsive web interfaces using React.js, Tailwind CSS, and JavaScript                    
 - 🌱 I’m currently learning Advanced React.js concepts like hooks, context API, and state management with Redux or Zustand. 
