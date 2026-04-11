@@ -28,5 +28,5 @@ Skills: **HTML**,**CSS**,**SCSS**,**JAVASCRIPT**,**REACT.JS**,**TAILWIND CSS** ,
 
 ![GitHub metrics](https://metrics.lecoq.io/bitun123)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=bitun123)  
+
 
